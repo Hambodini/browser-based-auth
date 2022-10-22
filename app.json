@@ -26,6 +26,7 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    "scheme": "browser-based-auth",
     "web": {
       "favicon": "./assets/favicon.png"
     }
